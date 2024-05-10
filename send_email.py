@@ -32,7 +32,3 @@ def send_email(subject, body, sender_email, receiver_email, smtp_server, smtp_po
     with smtplib.SMTP_SSL(smtp_server, smtp_port) as smtp:
         smtp.login(sender_email, sender_password)
         smtp.send_message(msg)
-
-
-
-

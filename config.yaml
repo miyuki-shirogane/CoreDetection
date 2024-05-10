@@ -1,9 +1,9 @@
-time_gap:
-core_file_dir:
+time_gap: 10
+core_file_dir: "/Users/feiyilin/downloads"
 
-subject:
-sender_email:
-receiver_email:
-smtp_server:
-smtp_port:
-sender_password:
+subject: "CORE文件通知"
+sender_email: "miyuk1@126.com"
+receiver_email: "feiyl48657@hundsun.com"
+smtp_server: "smtp.126.com"
+smtp_port: 465
+sender_password: "PEJBYLYTFLXQGZDQ"
